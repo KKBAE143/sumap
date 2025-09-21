@@ -1,0 +1,38 @@
+{
+  "name": "SUMAP - Smart Unified Mobility & Access Platform",
+  "short_name": "SUMAP",
+  "description": "Digital mobility pass platform with QR validation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "/TGSRTC_logo_1_84315be041.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/TGSRTC_logo_1_84315be041.webp", 
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["transportation", "productivity"],
+  "screenshots": [
+    {
+      "src": "/screenshots/mobile-home.png",
+      "sizes": "375x667",
+      "type": "image/png",
+      "platform": "narrow"
+    },
+    {
+      "src": "/screenshots/desktop-dashboard.png", 
+      "sizes": "1280x720",
+      "type": "image/png",
+      "platform": "wide"
+    }
+  ]
+}
